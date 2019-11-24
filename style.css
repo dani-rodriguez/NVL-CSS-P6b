@@ -1,0 +1,2 @@
+div p{border:solid 2px;color:#fabada;}
+div+p{text-transform: uppercase;}
